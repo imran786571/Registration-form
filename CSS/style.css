@@ -1,0 +1,158 @@
+.center {
+    text-align: center;
+    padding-bottom: 25px;
+    /* margin-bottom: 25px; */
+}
+
+.rg {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #7373cb;
+}
+
+.formDiv {
+    background-color: #2596be;
+    width: 80%;
+    margin: 10px auto;
+    padding-bottom: 35px;
+}
+label {
+    padding-right: 60px;
+    text-transform: uppercase;
+    color: white;
+    display: inline-block;
+    width: 140px;
+    padding-top: 20px;
+    /* text-align: right; */
+    text-align: left;
+}
+
+#radionone {
+    /* display: inline; */
+    padding: 0px;
+    width: 30px;
+    text-transform: capitalize;
+    vertical-align: middle;
+}
+
+.checkbox {
+    padding: 0px;
+    width: 40px;
+    text-transform: capitalize;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.female {
+    width: 38px;
+    margin-right: 550px;
+}
+
+
+#textarea {
+    vertical-align: top;
+    margin-right: 410px;
+    margin-top: 16px;
+}
+
+.hobbies {
+    margin-right: 335px;
+}
+
+#other {
+    padding: 0px;
+    margin: 0px;
+    margin-right: 2px;
+}
+
+.otherspan {
+    margin-top: 114px;
+    margin-right: 230px;
+    
+}
+
+/* .qualification {
+    margin-right: 690px;
+
+} */
+
+table {
+    margin-left: 86px;
+}
+
+
+.textafter  {
+    margin-right: 296px;
+    color: white;
+}
+
+.wordspacing {
+    word-spacing: 30px;
+    text-align: left;
+    color: white;
+}
+
+.tdheading {
+    text-align: center;
+    color: white;
+    vertical-align: bottom;
+}
+
+.textafter1 {
+    /* margin-right: 100px; */
+    color: white;
+    margin-right: 385px;
+}
+
+#yearmargin {
+    margin-right: 480px;
+    /* color: red; */
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#bcom {
+    /* padding: 10px; */
+    margin-left: 20px;
+}
+
+.lasttd {
+    color: white;
+}
+
+.quali {
+    vertical-align: bottom;
+}
+.marginInput {
+    margin-right: 510px;
+}
+
+.appliedClass {
+    margin-right: 450px;
+}
+
+
+
+/* label {
+    display: inline-block;
+    padding: 10px;
+    margin-right: 60px;
+    /* margin-left: 2px; */
+/* } */
+
+/* input {
+    margin-right: 490px;
+}
+
+.textafter {
+    margin-left: 10px;
+}  */
+
+
+/* 
+.thankyouDiv {
+    margin: 10px auto;
+} */
+
